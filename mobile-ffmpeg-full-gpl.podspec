@@ -84,6 +84,5 @@
       "x265.xcframework",
       "xvidcore.xcframework"
     ]
-  },
-  "deprecated": true
+  }
 }
